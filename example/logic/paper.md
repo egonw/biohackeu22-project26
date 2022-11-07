@@ -1,6 +1,6 @@
 ---
-title: 'BioHackEU22 Report for Project 26'
-title_short: 'BioHackEU22 #26'
+title: 'BioHackEU22 Report for Project 26: Shedding the light on unknown chemical substances'
+title_short: 'BioHackEU22 #26: unknown chemical substances'
 tags:
   - logic programming
 authors:
@@ -15,7 +15,7 @@ event: Fukuoka2019
 biohackathon_name: "BioHackathon Europe 2022"
 biohackathon_url:   "https://biohackathon-europe.org/"
 biohackathon_location: "Paris, France, 2022"
-#group: Logic programming group
+group: Unknown chemical substances group
 # URL to project git repo --- should contain the actual paper.md:
 git_url: https://github.com/egonw/biohackeu22-project26
 # This is the short authors description that is used at the
