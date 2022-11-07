@@ -4,11 +4,25 @@ title_short: 'BioHackEU22 #26: unknown chemical substances'
 tags:
   - logic programming
 authors:
-  - name: Egon Willighagen
+  - name: Evan Bolton
     affiliation: 1
+  - name: Anne Gaulton
+    affiliation: 2
+  - name: Emma Schymanski
+    affiliation: 3
+  - name: Denise Slenter
+    affiliation: 4
+  - name: Egon Willighagen
+    affiliation: 4
 affiliations:
-  - name: Dept of Bioinformatics - BiGCaT, NUTRIM, FHML, Maastricht University, Maastricht, NL
+  - name: NCBI
     index: 1
+  - name: SIB
+    index: 2
+  - name: UniLux
+    index: 3
+  - name: Dept of Bioinformatics - BiGCaT, NUTRIM, FHML, Maastricht University, Maastricht, NL
+    index: 4
 date: 7 November 2022
 cito-bibliography: paper.bib
 event: Fukuoka2019
