@@ -6,7 +6,7 @@ tags:
 authors:
   - name: Evan Bolton
     affiliation: 1
-  - name: Anne Gaulton
+  - name: Anne Morgat
     affiliation: 2
   - name: Emma Schymanski
     affiliation: 3
