@@ -2,7 +2,9 @@
 title: 'BioHackEU22 Report for Project 26: Shedding the light on unknown chemical substances'
 title_short: 'BioHackEU22 #26: unknown chemical substances'
 tags:
-  - logic programming
+  - cheminformatics
+  - PubChem
+  - unknown chemical substances
 authors:
   - name: Evan Bolton
     affiliation: 1
