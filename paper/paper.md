@@ -6,10 +6,13 @@ tags:
   - PubChem
   - unknown chemical substances
 authors:
+  
   - name: Evan Bolton
     affiliation: 1
   - name: Anne Morgat
     affiliation: 2
+  - name: Anjana Alapavalore
+    affiliation: 3
   - name: Emma Schymanski
     affiliation: 3
   - name: Denise Slenter
